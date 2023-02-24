@@ -4,6 +4,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+import devandroid.maddo.applistacurso.R;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
